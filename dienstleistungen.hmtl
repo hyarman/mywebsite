@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="C:\Users\fb200\OneDrive\Desktop\html\website\logo für ümit.png" alt="Logo">
+  </header>
+  <nav>
+    <ul>
+      <li><a href="C:\Users\fb200\OneDrive\Desktop\html\website\startseite.html">Startseite</a></li>
+      <li><a href="C:\Users\fb200\OneDrive\Desktop\html\website\ueber_uns.html">Über uns</a></li>
+      <li><a href="C:\Users\fb200\OneDrive\Desktop\html\website\dienstleistungen.html">Dienstleistungen</a></li>
+      <li><a href="C:\Users\fb200\OneDrive\Desktop\html\website\kontakt.html">Kontakt</a></li>
+    </ul>
+  </nav>
+  <section>
+    <h2>Dienstleistungen</h2>
+    <div class="image-container">
+      <figure>
+        <!--Konzernabschlussprüfung-->
+        <div class="flip-container">
+          <div class="flipper">
+            <div class="front">
+              <img src="C:\Users\fb200\OneDrive\Desktop\html\website\Durchführung von Jahres- und Konzernabschlussprüfung.jpeg" alt="DvJuK" width="200" heiht="auto">
+            </div>
+            <div class="back">
+              <h6 p>Steht wieder die Durchführung von Jahres- und Konzernabschlussprüfungen an? Als unabhängige Wirtschaftsprüfer können wir genau dies für Sie tun. Für uns ist dabei ein enger Kontakt zwischen uns und unseren Kunden wichtig.</h6 p>
+            </div>
+          </div>
+        </div>
+        <figcaption><p>Durchführung von</p><p>Jahres-und</p><p>Konzernabschlussprüfung</p></figcaption>  
+      </figure>
+      <figure>
+        <!--übergeordnete Auswertung-->
+        <div class="flip-container">
+          <div class="flipper">
+            <div class="front">
+              <img src="C:\Users\fb200\OneDrive\Desktop\html\website\Durchführung von Jahres- und Konzernabschlussprüfung.jpeg" alt="DvJuK" width="200" heiht="auto">
+            </div>
+            <div class="back">
+              <h6 p>Die Durchführung von übergeordneten Auswertungen ist ein wichtiger Schritt für Unternehmen, um umfassende Einblicke in ihre Geschäftsdaten zu gewinnen und strategische Entscheidungen zu treffen. Bei übergeordneten Auswertungen werden verschiedene Datenquellen und Informationen zusammengeführt, um ein ganzheitliches Bild der Unternehmensleistung, Markttrends und Kundenverhalten zu erhalten.</h6 p>
+            </div>
+          </div>
+        </div>
+        <figcaption><p>Durchführung von</p><p>übergeordneten</p><p>Auswertungen</p></figcaption>  
+      </figure>
+      <figure>
+        <!--Buchführungssystem SAP-->
+        <div class="flip-container">
+          <div class="flipper">
+            <div class="front">
+              <img src="C:\Users\fb200\OneDrive\Desktop\html\website\Durchführung von Jahres- und Konzernabschlussprüfung.jpeg" alt="DvJuK" width="200" heiht="auto">
+            </div>
+            <div class="back">
+              <h6 p>Wir helfen ihnen wertvolle Einblicke in ihre finanziellen Prozesse und Geschäftstransaktionen zu gewinnen, indem wir ihre Buchhaltung, Kostenrechnung, Finanzberichterstattung und andere finanzielle Aspekte verwalten.</h6 p>
+            </div>
+          </div>
+        </div>
+        <figcaption><p>Analyse im </p><p>Buchführungssystem SAP</p></figcaption>  
+      </figure>
+      <figure>
+       <!--Beurteilung Kontrollsystem-->
+       <div class="flip-container">
+        <div class="flipper">
+          <div class="front">
+            <img src="C:\Users\fb200\OneDrive\Desktop\html\website\Durchführung von Jahres- und Konzernabschlussprüfung.jpeg" alt="DvJuK" width="200" heiht="auto">
+          </div>
+          <div class="back">
+            <h6 p>Wir Beurteilung ihr Effektivität und Effizienz im internen Kontrollen Finanz- und Rechnungswesen und helfen im Anschluss damit Ihnen diese zu Optimieren </h6 p>
+          </div>
+        </div>
+
+      
+        <figcaption><p>Beurteilung des internen </p><p>rechnungslegungsbezogenen</p><p>Kontrollsystems</p></figcaption>  
+      </figure>
+      
+    </div>
+    <!--2 image container-->
+    <div class="image-container2">
+      <figure>
+        <!--Finanzamt Ausdribbeln-->
+        <div class="flip-container">
+          <div class="flipper">
+            <div class="front">
+              <img src="C:\Users\fb200\OneDrive\Desktop\html\website\Durchführung von Jahres- und Konzernabschlussprüfung.jpeg" alt="DvJuK" width="200" heiht="auto">
+            </div>
+            <div class="back">
+              <h6 p>Haben Sie sich schon mal gefragt, wie Menschen wie Elon Musk und Jeff Bezos kaum Steuern bezahlen und teilweise sogar Hilfen vom Staat erhalten. Wir kennen die Antwort und wir wissen auch wie Sie das selbe erreichen können. Bei Interesse kontaktieren Sie uns.</h6 p>
+            </div>
+          </div>
+        </div>
+        <figcaption><p>Finanzamt ausdribbeln</p></figcaption>  
+      </figure>
+      <figure>
+        <!--Gesetzeslücken missbrauchen-->
+        <div class="flip-container">
+          <div class="flipper">
+            <div class="front">
+              <img src="C:\Users\fb200\OneDrive\Desktop\html\website\Durchführung von Jahres- und Konzernabschlussprüfung.jpeg" alt="DvJuK" width="200" heiht="auto">
+            </div>
+            <div class="back">
+              <h6 p>Es gibt viele Gesetzeslücken, womit sich Unternhemen viel an Geld sparen können. Und genau diese kennen wir. Unsere Spezialisationen liegen im Umweltrecht, Geistiges Eigentumsrecht und Arbeitsrecht. Bei Interesse kontaktieren Sie uns. </h6 p>
+            </div>
+          </div>
+        </div>
+        <figcaption><p>Gesetzeslücken missbrauchen</p></figcaption>  
+      </figure>
+      <figure>
+        <!--Greenwashing-->
+        <div class="flip-container">
+          <div class="flipper">
+            <div class="front">
+              <img src="C:\Users\fb200\OneDrive\Desktop\html\website\greenwashing.jpg" alt="greenwashing" width="200" height="200">
+            </div>
+            <div class="back">
+              <h6 p>Greenwashing ist eine Taktik, bei der Unternehmen den Eindruck erwecken, dass sie umweltfreundlich handeln, obwohl ihre Praktiken und Produkte nicht wirklich nachhaltig sind. Es handelt sich um eine Art von Marketing-Masche, die darauf abzielt, das Image eines Unternehmens zu verbessern und die öffentliche Wahrnehmung positiv zu beeinflussen. Wir können dies für Sie tun. Bei Interesse kontaktieren Sie uns.</h6 p>
+            </div>
+          </div>
+        </div>
+        <figcaption><p>Greenwashing</p></figcaption>  
+      </figure>
+    </div>
+    
+  </section>
+  <footer>
+    <p>Bei Interesse melden Sie sich hier:</p>
+    <h4 p  style="text-align: left;">Tel.: 123456789</h4 p>
+    <h4 p  style="text-align: left;">oder</h4 p>
+    <h4 p  style="text-align: left;">email: ichhasseuemit@gmx.de</h4 p>
+    
+  </footer>
+</body>
+</html>
