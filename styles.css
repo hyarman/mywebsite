@@ -32,7 +32,16 @@ button {
 button:hover {
     background-color: #45a049;
 }
+ul {
+    list-style-type: disc;
+    padding-left: 0.5em;
+    text-align: left;
+    display: inline-block;
+}
 
+li {
+    margin: 0 0;
+}
 footer {
     background-color: #333;
     color: white;
