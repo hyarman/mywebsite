@@ -17,7 +17,7 @@ header {
 main {
     flex: 1;
     padding: 1em;
-    text-align: left; /* Ändere dies zu left */
+    text-align: left;
 }
 
 button {
@@ -35,11 +35,12 @@ button:hover {
 
 ul {
     list-style-type: disc;
-    padding-left: 1em; /* Hinzufügen von Padding links für eine bessere Struktur */
+    padding-left: 1em;
+    padding-bottom: 0.5em;
 }
 
 li {
-    margin: 0.5em 0; /* Hinzufügen von etwas Abstand zwischen den Listenelementen */
+    margin: 0.5em 0;
 }
 
 footer {
